@@ -1,0 +1,15 @@
+/* Rating.css */
+.rating {
+    display: flex;
+    cursor: pointer;
+  }
+  
+  .star {
+    font-size: 24px;
+    color: #ddd;
+  }
+  
+  .star.selected {
+    color: #ffcc00;
+  }
+  
